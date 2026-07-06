@@ -1,8 +1,7 @@
-# Blind-Clock
+# Math-Clock
 Alarm Clock with a twist - no more snoozing!
 
 Features:
 - Time display
 - Able to change alarm time
-- Wakes you up with the unravelling of your curtains
-- Intricate password to turn off, no option to snooze
+- you must solve a maths question to turn the alarm off - that means getting out of bed and working on it!
