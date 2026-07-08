@@ -17,3 +17,10 @@ Case complete!
 This bit was quite tough, but manageable. I had to import the PCB into OnShape in order to design the case in context. I had to cut out the keyswitch shapes and a gap for the display out of a hollow cylinder. Then I created a bottom cap for the alarm. Getting some sort of cable hole was tricky, but after a quick google search, I knew to create a plane on the side on the cylinder, which I could then create a sketch on. Once that was cut out, I then filleted the top and bottom to create a sleak look.
 <img width="317" height="211" alt="image" src="https://github.com/user-attachments/assets/462d51c6-0f87-434c-81b0-04dfe65fcd8b" />
 <img width="329" height="301" alt="image" src="https://github.com/user-attachments/assets/ca4fc054-82b0-493a-b5ff-5ac8a51d219b" />
+
+Devlog #3: ~ 2 hours
+I am not a coder by any means... and it doesn't help when arduino IDE doesn't let you test your code without a board connected. Uh!
+So, I have set up all the components but not yet created a loop. Why'd it take me so long to do this? 'Cause i've got no idea what I'm doing, and thus a million google searches occured. However, I am proud to announce that this work is NOT AI slop!
+<img width="552" height="332" alt="Screenshot 2026-07-08 205611" src="https://github.com/user-attachments/assets/6a9f6f82-18dd-48d4-8bdd-b3d51d373a33" />
+<img width="507" height="320" alt="Screenshot 2026-07-08 205624" src="https://github.com/user-attachments/assets/7f65de2f-e660-43b1-a098-c836a4344222" />
+From here, I am going to get a rough code into the loop, but i won't be able to test it until I am able to build the code.
