@@ -29,3 +29,12 @@ Devlog #4: ~ 45 minutes
 Coding is very draining, hence why I am writing more devlogs. I've managed to add what I think is the coreect code for the alarm to display numbers and when it reaches 07:00, starts buzzing and asks a question. 
 <img width="361" height="320" alt="image" src="https://github.com/user-attachments/assets/87c77426-030d-49e7-890a-0d0e5d51ff2f" />
 Looking at the code again, I have realised that I need to store the random numbers, otherwise I won't be able to have a user input. Lucky Me! (That was sarcasm)
+
+Devlog #5 ~ 20 minutes
+OMG it's done!
+That actually took a lot less time than I thought it would.
+I can't test the code right now, as I haven't built the alarm yet, but I reckon when I do, I will have to change some of the code so it works. But, I will be debugging it as much as I can.
+<img width="304" height="314" alt="Screenshot 2026-07-08 215142" src="https://github.com/user-attachments/assets/9ff90e32-dac0-4365-b0bb-13e7cfcba326" />
+<img width="245" height="286" alt="Screenshot 2026-07-08 215156" src="https://github.com/user-attachments/assets/84365d3b-e090-4cb2-a4e2-2429674daa0d" />
+<img width="253" height="86" alt="Screenshot 2026-07-08 215203" src="https://github.com/user-attachments/assets/b2a6da96-55bc-4564-9709-54bf6cdd74dc" />
+
