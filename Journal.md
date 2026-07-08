@@ -38,3 +38,7 @@ I can't test the code right now, as I haven't built the alarm yet, but I reckon 
 <img width="245" height="286" alt="Screenshot 2026-07-08 215156" src="https://github.com/user-attachments/assets/84365d3b-e090-4cb2-a4e2-2429674daa0d" />
 <img width="253" height="86" alt="Screenshot 2026-07-08 215203" src="https://github.com/user-attachments/assets/b2a6da96-55bc-4564-9709-54bf6cdd74dc" />
 
+Devlog #6 ~ 30 minutes
+So, I have been through the debugging process, and surprisingly I only picked up a few errors (other than a host of nonsensical compiling errors). 
+See the full code in the github repo.
+Time to submit! Next time you hear from me, I will be building the clock!
