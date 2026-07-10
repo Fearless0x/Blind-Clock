@@ -23,5 +23,5 @@ BOM:
 
 Files:
 Gerbers from KiCAD
-CAD from OnShape
+CAD from OnShape -> https://cad.onshape.com/documents/984ccf57373ebc46a4a9dc61/w/e4aa400e5db9cb7560adcc6f/e/9f602d39349b855c7cf45cc1?renderMode=0&uiState=6a510e86063880facc44dc40
 Firmware on Arduino IDE
