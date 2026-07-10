@@ -8,6 +8,7 @@ Features:
 
 <img width="329" height="301" alt="image" src="https://github.com/user-attachments/assets/850a48a3-bb07-4af2-a1f4-6fcf24808593" />
 <img width="376" height="245" alt="image" src="https://github.com/user-attachments/assets/0e04e6bf-2b29-4dbe-95b9-3f8ec97e532d" />
+<img width="313" height="337" alt="Screenshot 2026-07-06 110611" src="https://github.com/user-attachments/assets/bd1ba450-bc29-4f79-b8ae-ad5bdc7b68a9" />
 <img width="460" height="401" alt="Screenshot 2026-07-06 115845" src="https://github.com/user-attachments/assets/2624cd34-250e-4b8c-ad5a-97be3edd3294" />
 
 
